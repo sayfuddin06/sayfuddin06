@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Sayfuddin 👋
 
 🎯 Aspiring Data Analyst | Passionate About Turning Data into Insights  
