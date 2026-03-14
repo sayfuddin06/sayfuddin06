@@ -1,7 +1,5 @@
-# Akhmadjonov Sayfuddin | Data Analyst
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/banner.png" alt="Akhmadjonov Sayfuddin " width="100%">
+  <img src="https://raw.githubusercontent.com/Sayfuddin-Ahmadjonov/Sayfuddin-Ahmadjonov/main/banner.png" alt="Akhmadjonov Sayfuddin" width="100%">
 </p>
 
 ---
@@ -10,7 +8,7 @@
 * 📍 Country is **Uzbekistan**
 * 🎓 Studying at **Najot Talim**
 * 📊 Focused on **Data Analytics & Business Intelligence**
-* 🛠 Experienced with **data cleaning, analysis, and visualization** 🔎
+* 🛠 Experienced with **Data Cleaning, Analysis, and Visualization** 🔎
 * 🌍 Advanced in **English**
 
 ---
@@ -27,20 +25,14 @@
 
 ### 🚀 Featured Data Projects
 
-#### 📈 [Sales Dashboard (Power BI)](https://github.com/yourusername/sales-dashboard)
+#### 📈 [Sales Dashboard (Power BI)](https://github.com/Sayfuddin-Ahmadjonov)
 * Build interactive dashboards for sales analysis.
 * Created KPI metrics and trend analysis.
 * Identified key business insights to drive strategy.
 
-#### 👥 [Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation)
+#### 👥 [Customer Segmentation Analysis](https://github.com/Sayfuddin-Ahmadjonov)
 * Segmented customers based on behavior.
 * Used Python for exploratory data analysis (EDA).
-* Visualized clusters to improve marketing targeting.
-
-#### 🧹 [SQL Data Cleaning Project](https://github.com/yourusername/sql-cleaning)
-* Removed duplicates and handled missing values.
-* Prepared datasets for analytics workflows.
-* Optimized queries for data retrieval.
 
 ---
 
