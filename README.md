@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sayfuddin-Ahmadjonov/Sayfuddin-Ahmadjonov/main/banner.png" alt="Akhmadjonov Sayfuddin" width="100%">
+  <img src="https://raw.githubusercontent.com/sayfuddin06/sayfuddin06/main/banner.png" alt="Akhmadjonov Sayfuddin" width="100%">
 </p>
-
 ---
-
 ### 📍 About Me
 * 📍 Country is **Uzbekistan**
 * 🎓 Studying at **Najot Talim**
