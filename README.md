@@ -1,6 +1,6 @@
-<!-- Banner / Background -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1612831455541-2ff97b3b6f63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzMyMXwwfDF8c2VhcmNofDF8fGRhdGElMjBhbmFseXRpY3N8ZW58MHx8fHwxNjc4ODQyNDA4&ixlib=rb-4.0.3&q=80&w=1080" alt="Data Analytics Banner" width="100%" />
+  <img src="a_github_github_profile_readme_showcases_akhmadjon.png" alt="Akhmadjonov Sayfuddin Banner" width="100%" />
 </p>
 
 # 👋 Hello, I'm Akhmadjonov Sayfuddin
@@ -54,4 +54,4 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/sayfuddin-ahmadjonov-58453a38b)  
+- [LinkedIn](https://www.linkedin.com/)  
