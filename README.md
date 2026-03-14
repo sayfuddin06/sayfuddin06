@@ -1,30 +1,57 @@
+<!-- Banner / Background -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1612831455541-2ff97b3b6f63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzMyMXwwfDF8c2VhcmNofDF8fGRhdGElMjBhbmFseXRpY3N8ZW58MHx8fHwxNjc4ODQyNDA4&ixlib=rb-4.0.3&q=80&w=1080" alt="Data Analytics Banner" width="100%" />
+</p>
+
 # 👋 Hello, I'm Akhmadjonov Sayfuddin
 
-🌟 Aspiring Data Analyst | SQL | Excel | Python | Power BI  
-
-I'm currently studying **Data Analytics** at **Najot Talim**, where I’m sharpening my skills in transforming data into actionable insights.  
-
----
-
-## 💻 Tech Skills
-- **Databases & Querying:** SQL  
-- **Data Analysis & Visualization:** Excel, Power BI  
-- **Programming & Automation:** Python  
+📍 Uzbekistan  
+🎓 Studying at **Najot Talim**  
+📊 Focused on **Data Analytics & Business Intelligence**  
+📈 Experienced with **data cleaning, analysis, and visualization**  
+🚀 Advanced in English  
 
 ---
 
-## 🔍 What I Love
-- Turning raw data into meaningful insights  
-- Building dashboards that tell a story  
-- Learning new tools to analyze data smarter  
+## 🛠 Tech Stack
+
+### Data Analysis
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Data Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### Tools
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📂 Featured Data Projects
+
+### 📊 Sales Dashboard (Power BI)
+- Built interactive dashboards for sales analysis  
+- Created KPI metrics and trend analysis  
+- Identified key business insights  
+
+### 📈 Customer Segmentation Analysis
+- Segmented customers based on behavior  
+- Used Python for exploratory data analysis  
+
+### 🧹 SQL Data Cleaning Project
+- Removed duplicates and handled missing values  
+- Prepared dataset for analytics workflows  
+
+### 📉 Data Analytics Portfolio
+- Collection of projects using **Python, SQL, and Power BI**  
 
 ---
 
 ## 📫 Connect with Me
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/)  
-
----
-
-### ⚡ Fun Fact
-I’m passionate about solving problems with data and turning numbers into knowledge!  
+- [LinkedIn](www.linkedin.com/in/sayfuddin-ahmadjonov-58453a38b)  
