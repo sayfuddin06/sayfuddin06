@@ -1,11 +1,11 @@
 <div align="center">
 
 # 🌌 <samp>AKHMADJONOV SAYFUDDIN</samp>
-## 🚀 Data Analyst & Visualization Specialist
+## 🚀 Data Analyst
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Data+Analysis;Business+Intelligence;Power+BI+Expert;Python+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence;Power+BI+Expert;Python+Developer)
 
 </div>
 
