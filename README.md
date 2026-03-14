@@ -11,7 +11,7 @@
 
 ### 📍 About Me
 
-📍 Based in **Uzbekistan** 🎓 Studying at **Najot Talim** 📊 Focused on **Data Analytics & Business Intelligence** 🛠 Experienced with **Data Cleaning, Analysis, and Visualization** 🔎  
+📍 Country is **Uzbekistan** 🎓 Studying at **Najot Talim** 📊 Focused on **Data Analytics & Business Intelligence** 🛠 Experienced with **Data Cleaning, Analysis, and Visualization** 🔎  
 🌍 Advanced in **English**
 
 </div>
